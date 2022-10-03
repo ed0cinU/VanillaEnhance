@@ -1,0 +1,14 @@
+name = "Roughly Enough Items"
+filename = "RoughlyEnoughItems-9.1.550.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/8T2JUPB8/RoughlyEnoughItems-9.1.550.jar"
+hash-format = "sha512"
+hash = "917f85ef5a035edcbdb5e3e7493917dc044f94ef5c34dba38328564b772656297d7f3a1fdc825f11842e26b6b3981ad838de7321599b2851a333123cfcabc927"
+
+[update]
+[update.modrinth]
+mod-id = "nfn13YXA"
+version = "8T2JUPB8"

@@ -1,0 +1,14 @@
+name = "Quilted Fabric API"
+filename = "quilted-fabric-api-4.0.0-beta.13+0.62.0-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/RMRJccdH/quilted-fabric-api-4.0.0-beta.13%2B0.62.0-1.19.2.jar"
+hash-format = "sha512"
+hash = "77626ba81761c86013f1a2afe84cee83c23e5044c9bfc7dfa12dddf8926741a1d2f83f0f6a96c677e63ba9fbff155419f94b99eb4c8ccc76e5026c79b9a907a9"
+
+[update]
+[update.modrinth]
+mod-id = "qvIfYCYJ"
+version = "RMRJccdH"

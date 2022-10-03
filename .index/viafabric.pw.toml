@@ -1,0 +1,14 @@
+name = "ViaFabric"
+filename = "viafabric-0.4.9+19-main.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YlKdE5VK/versions/HDHqNX5V/viafabric-0.4.9%2B19-main.jar"
+hash-format = "sha512"
+hash = "a5082d0a84378650de13bb660b4b7867abc21a9043884a821443c926655039bdef4f9aca61fee577b020d5950bc1408c9fa47e39377e38654d743347735d4552"
+
+[update]
+[update.modrinth]
+mod-id = "YlKdE5VK"
+version = "HDHqNX5V"
