@@ -1,0 +1,14 @@
+name = "AdvancedChatFilters"
+filename = "AdvancedChatFilters-1.19-1.2.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/c6fx2vMe/versions/1.19-1.2.6/AdvancedChatFilters-1.19-1.2.6.jar"
+hash-format = "sha512"
+hash = "cffca75c89cafc863b7bda8fecf0ecb858924c77b316a2c6a079208be8efc4a8142052bb5cca9f68f46b792cf2a31c17812e719a12d33cd9b195c6dc03e6029e"
+
+[update]
+[update.modrinth]
+mod-id = "c6fx2vMe"
+version = "N6rbtdXj"
