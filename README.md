@@ -1,5 +1,5 @@
 # VanillaEnhance
-A Modpack for the Quilt Mod Loader that enhances Minecraft Vanilla.
+A Modpack for the Quilt Mod Loader that enhances Minecraft Vanilla with client-side improvements.
 
 Tested with Quit Loader Version 0.17.7
 
